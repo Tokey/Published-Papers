@@ -1,4 +1,4 @@
-# Published-Papers
+# Published Papers
 
 ## Computer Vision
 [1] N. Haque and S. S. Tokey. 2019. [Grayscale Portrait Colorization using CNNs and Pretrained VGG-Face Descriptor](https://github.com/Tokey/Published-Papers/blob/main/ICCIT%202019/Grayscale%20Portrait%20Colorization%20using%20CNNs%20and%20Pretrained%20VGG-Face%20Descriptor.pdf). In Proceedings of the 22nd International Conference on Computer and Information Technology (ICCIT 2019). DOI: 10.1109/ICCIT48885.2019.9038376.
