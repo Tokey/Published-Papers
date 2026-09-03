@@ -46,7 +46,7 @@ Samin Shahriar Tokey — Interactive Media and Game Development, Worcester Polyt
 
 ---
 
-## Earlier Work — Computer Vision
+## Computer Vision
 
 **[15]** N. Haque and S. S. Tokey. 2021. [Grayscale Portrait Colorization using Optimization and MTCNN Face Detector](https://github.com/Tokey/Published-Papers/blob/main/SEUJCS/Grayscale%20Portrait%20Colorization%20using%20Optimization%20and%20MTCNN%20Face%20Detector.pdf). *Southeast University Journal of Computing Sciences* 1, 1.
 
