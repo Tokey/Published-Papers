@@ -1,4 +1,4 @@
-# Published Papers
+# Published Work
 
 Samin Shahriar Tokey — Interactive Media and Game Development, Worcester Polytechnic Institute
 
